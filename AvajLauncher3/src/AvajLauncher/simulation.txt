@@ -1,0 +1,138 @@
+Baloon#B1(1) registered to the tower.
+Baloon#B2(2) registered to the tower.
+JetPlane#J1(3) registered to the tower.
+Helicopter#H1(4) registered to the tower.
+Helicopter#H2(5) registered to the tower.
+Helicopter#H3(6) registered to the tower.
+Baloon#B3(7) registered to the tower.
+JetPlane#J2(8) registered to the tower.
+Helicopter#H4(9) registered to the tower.
+Baloon#B1(1) says: Damn you rain! You messed up my baloon.
+Baloon#B2(2) says: It's snowing! We'regonna crash.
+JetPlane#J1(3) says: OMG! Winter is coming!
+Helicopter#H1(4) says: My rotor is going to freeze.
+Helicopter#H2(5) says: My rotor is going to freeze.
+Helicopter#H3(6) says: This rain gets me depressed.
+Baloon#B3(7) says: Fuck, I hate fog!
+JetPlane#J2(8) says: WTF! I can't see a thing.
+Helicopter#H4(9) says: This is hot.
+Baloon#B1(1) says: Let's enjoy the good weather and take some pics.
+Baloon#B2(2) says: Let's enjoy the good weather and take some pics.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+Helicopter#H1(4) says: My rotor is going to freeze.
+Helicopter#H1(4) landing.
+Tower says: Helicopter#H1(4) unregistered from the tower.
+Helicopter#H3(6) says: Fog:(
+Baloon#B3(7) says: It's snowing! We'regonna crash.
+JetPlane#J2(8) says: OMG! Winter is coming!
+Helicopter#H4(9) says: This is hot.
+Baloon#B1(1) says: Fuck, I hate fog!
+Baloon#B2(2) says: Fuck, I hate fog!
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+Helicopter#H2(5) says: My rotor is going to freeze.
+Helicopter#H3(6) says: My rotor is going to freeze.
+Baloon#B3(7) says: Let's enjoy the good weather and take some pics.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+Baloon#B1(1) says: It's snowing! We'regonna crash.
+Baloon#B2(2) says: It's snowing! We'regonna crash.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+Helicopter#H2(5) says: My rotor is going to freeze.
+Helicopter#H3(6) says: My rotor is going to freeze.
+Baloon#B3(7) says: Fuck, I hate fog!
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+Baloon#B1(1) says: Let's enjoy the good weather and take some pics.
+Baloon#B2(2) says: Let's enjoy the good weather and take some pics.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+Helicopter#H2(5) says: My rotor is going to freeze.
+Helicopter#H2(5) landing.
+Tower says: Helicopter#H2(5) unregistered from the tower.
+Baloon#B3(7) says: It's snowing! We'regonna crash.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+Baloon#B1(1) says: Fuck, I hate fog!
+Baloon#B2(2) says: Fuck, I hate fog!
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+Helicopter#H3(6) says: My rotor is going to freeze.
+Baloon#B3(7) says: Let's enjoy the good weather and take some pics.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+Baloon#B1(1) says: It's snowing! We'regonna crash.
+Baloon#B1(1) landing.
+Tower says: Baloon#B1(1) unregistered from the tower.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+Helicopter#H3(6) says: My rotor is going to freeze.
+Baloon#B3(7) says: Fuck, I hate fog!
+JetPlane#J2(8) says: OMG! Winter is coming!
+Helicopter#H4(9) says: This is hot.
+Baloon#B2(2) says: It's snowing! We'regonna crash.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+Helicopter#H3(6) says: My rotor is going to freeze.
+Baloon#B3(7) says: It's snowing! We'regonna crash.
+Baloon#B3(7) landing.
+Tower says: Baloon#B3(7) unregistered from the tower.
+Helicopter#H4(9) says: This is hot.
+Baloon#B2(2) says: Let's enjoy the good weather and take some pics.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+Helicopter#H3(6) says: My rotor is going to freeze.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+Baloon#B2(2) says: Fuck, I hate fog!
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+Helicopter#H3(6) says: My rotor is going to freeze.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+Baloon#B2(2) says: It's snowing! We'regonna crash.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+Helicopter#H3(6) says: My rotor is going to freeze.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+Baloon#B2(2) says: Let's enjoy the good weather and take some pics.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+Helicopter#H3(6) says: My rotor is going to freeze.
+Helicopter#H3(6) landing.
+Tower says: Helicopter#H3(6) unregistered from the tower.
+Helicopter#H4(9) says: This is hot.
+Baloon#B2(2) says: Fuck, I hate fog!
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+Baloon#B2(2) says: It's snowing! We'regonna crash.
+Baloon#B2(2) landing.
+Tower says: Baloon#B2(2) unregistered from the tower.
+JetPlane#J2(8) says: OMG! Winter is coming!
+Helicopter#H4(9) says: This is hot.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: OMG! Winter is coming!
+Helicopter#H4(9) says: This is hot.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: This is hot.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: OMG! Winter is coming!
+Helicopter#H4(9) says: This is hot.
+JetPlane#J1(3) says: This damn sun is getting into my eyes.
+JetPlane#J2(8) says: This damn sun is getting into my eyes.
+Helicopter#H4(9) says: Fog:(
