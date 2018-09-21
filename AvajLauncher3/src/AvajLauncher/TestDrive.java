@@ -19,7 +19,7 @@ public class TestDrive {
             System.exit(0);
         }
 
-        File output = new File("/home/iosif/IdeaProjects/AvajLauncher3/src/AvajLauncher/simulation.txt");
+        File output = new File("src/AvajLauncher/simulation.txt");
         try {
             PrintStream out = new PrintStream(new FileOutputStream(output));
             System.setOut(out);

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="avajLauncher:jar">
+    <output-path>$PROJECT_DIR$/AvajLauncher3/out/artifacts/avajLauncher_jar</output-path>
+    <root id="archive" name="avajLauncher.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="avajLauncher" />
+    </root>
+  </artifact>
+</component>
